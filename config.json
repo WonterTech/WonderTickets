@@ -1,0 +1,17 @@
+{
+  "core": 12,
+  "spread": 8,
+  "rpr": 10,
+  "ink": 6.5,
+  "shipc": 8,
+  "tva": 0,
+  "d1q": 100,
+  "d1p": 5,
+  "d2q": 500,
+  "d2p": 10,
+  "types": [
+    { "k": "thermal", "rate": 0.208, "fixed": 0.195, "thick": 60 },
+    { "k": "ticket", "rate": 0.26, "fixed": 0.195, "thick": 80 },
+    { "k": "plain", "rate": 0.13, "fixed": 0.156, "thick": 70 }
+  ]
+}
